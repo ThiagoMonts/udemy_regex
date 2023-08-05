@@ -10,7 +10,7 @@ O curso de Fundamentos de Expressões Regulares (Regex), ministrado pelo profess
 <br>
 
 <p align="center">
-  <img alt="capa" src=".github/capa.jpeg" width="100%">
+  <img alt="capa" src=".github/capa.jpg" width="100%">
 </p>
 
 <br>
